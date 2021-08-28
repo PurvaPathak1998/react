@@ -1,0 +1,16 @@
+
+.title
+{
+  height: 42px;
+  font-family: Roboto;
+  text-align: center;
+  color:#005A8C;
+  font-size: 36px;
+  line-height: 42px;
+}
+
+.programCardContainer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

@@ -1,0 +1,60 @@
+h1
+{
+color: black;
+}
+.cards
+{
+    width: 317px;
+    height: 300px;
+    background: #FFFFFF;
+    box-shadow: 5px 11px 33px rgba(0, 0, 0, 0.25);
+    margin-bottom: 40px;
+    margin-right: 15px;
+    margin-left: 15px;
+    justify-content: center;
+}
+img
+{
+    width: 273px;
+    height: 167px;
+    margin: 20px 0 0 20px; 
+    
+}
+.depatment
+{
+
+height: 21px;
+font-family: Roboto;
+font-size: 18px;
+line-height: 21px;
+color: #000000;
+text-align: center;
+}
+.Button1
+{
+  width: 50%;
+  height: 20px;
+  color: #8F8F8F;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  background-color: white;
+  padding: 25px;
+  border-style: none;
+  
+
+}
+.Button2
+{
+    width: 50%;
+    height: 20px;
+    color: #005A8C;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    background-color: white;
+    padding: 25px;
+    border-style: none;
+
+}
+
